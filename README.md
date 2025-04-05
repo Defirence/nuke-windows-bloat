@@ -9,4 +9,4 @@ Download or save the script raw, use `curl`, `wget` or whatever you want to do. 
 
 Run it in Powershell and allow script execution if Micro$hit Bind0ws gives you any issues.
 
-Licenced under the WTFPL licence.
+Licenced under the WTFPL licence. ![do what the fuck you want to licence badge small](/wtfpl-badge-2.png "WTFPL Licence")
